@@ -1,0 +1,41 @@
+name: Escala Anestesiologia
+
+on:
+  workflow_dispatch:
+    inputs:
+      payload:
+        description: 'JSON payload (blocos, disponibilidades, afinidades, restricoes)'
+        required: true
+        type: string
+
+jobs:
+  alocar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Setup Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: Instalar dependencias
+        run: pip install -r requirements.txt
+
+      - name: Escrever payload
+        run: echo '${{ github.event.inputs.payload }}' > /tmp/payload.json
+
+      - name: Correr alocacao
+        env:
+          GOOGLE_SERVICE_ACCOUNT: ${{ secrets.GOOGLE_SERVICE_ACCOUNT }}
+        run: python src/escala.py --payload /tmp/payload.json --output /tmp/resultado.json
+
+      - name: Upload resultado
+        uses: actions/upload-artifact@v4
+        with:
+          name: resultado-escala
+          path: /tmp/resultado.json
+          retention-days: 3

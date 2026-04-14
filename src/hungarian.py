@@ -147,8 +147,12 @@ def alocar(blocos, disponibilidades_horas, afinidades, equipas, restricoes) -> l
     resultado_map = {}
     razao_map     = {}
 
-    # Mais restritivos (mais slots, dia mais cedo) primeiro
-    macros_ord = sorted(macros, key=lambda m: (-len(m["tSlots"]), m["dia"]))
+    # Ordenar cronologicamente: dia → hora de início
+    # (mais natural — preenche Seg manhã antes de Seg tarde, etc.)
+    def macro_ini(m):
+        times = [b["iniMin"] for b in m["micro"]]
+        return (m["dia"], min(times) if times else 9999)
+    macros_ord = sorted(macros, key=macro_ini)
 
     for macro in macros_ord:
 
@@ -243,6 +247,15 @@ def alocar(blocos, disponibilidades_horas, afinidades, equipas, restricoes) -> l
                     if b["id"] not in resultado_map:
                         resultado_map[b["id"]] = None
                         razao_map[b["id"]]     = f"sem candidato {TURNO_L[t] if t < len(TURNO_L) else t}"
+
+    # Diagnóstico: top razões de falha
+    sem = [razao_map.get(b["id"],"?") for b in blocos if not resultado_map.get(b["id"])]
+    if sem:
+        from collections import Counter
+        top = Counter(sem).most_common(5)
+        print(f"  Top razões sem candidato ({len(sem)} blocos):")
+        for razao, n in top:
+            print(f"    {n}x: {razao}")
 
     return [{"id": b["id"],
              "ane": resultado_map.get(b["id"]),

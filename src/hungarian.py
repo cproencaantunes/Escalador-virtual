@@ -91,6 +91,11 @@ def ane_cobre_macro(ane, macro, disp_horas, restricoes_ane, alocacoes_ane, equip
     # 1. Disponibilidade horária — cada micro deve estar coberto
     for b in macro["micro"]:
         slots_b = slots_bloco(b["iniMin"], b["fimMin"])
+        if not slots_b:
+            # bloco sem slots válidos (iniMin=fimMin ou dados inválidos) → ignorar
+            continue
+        if not slots_ane:
+            return False, "sem disponibilidade"
         if not slots_b.issubset(slots_ane):
             falta = sorted(slots_b - slots_ane)
             h = falta[0] if falta else b["iniMin"]
@@ -129,6 +134,14 @@ def alocar(blocos, disponibilidades_horas, afinidades, equipas, restricoes) -> l
 
     macros = construir_macros(blocos, equipas)
     print(f"  Macros: {len(macros)} | Micro: {len(blocos)} | Anestesistas: {len(anestesistas)}")
+    # Diagnóstico: verificar slots dos primeiros blocos
+    for b in blocos[:3]:
+        s = slots_bloco(b["iniMin"], b["fimMin"])
+        dia_str = DIAS_STR[b["dia"]]
+        print(f"  Bloco {b['id']}: {b['cir']} {dia_str} {b['iniMin']//60:02d}:{b['iniMin']%60:02d}-{b['fimMin']//60:02d}:{b['fimMin']%60:02d} → {len(s)} slots")
+        # Contar anestesistas disponíveis para este bloco
+        n_disp = sum(1 for a in anestesistas if s and s.issubset(set(disponibilidades_horas.get(a,{}).get(dia_str,[]))))
+        print(f"    → {n_disp} anestesistas disponíveis")
 
     alocacoes_ane = defaultdict(list)
     resultado_map = {}

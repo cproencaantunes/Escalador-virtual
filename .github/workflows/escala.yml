@@ -3,8 +3,8 @@ name: Escala Anestesiologia
 on:
   workflow_dispatch:
     inputs:
-      payload:
-        description: 'JSON payload (blocos, disponibilidades, afinidades, restricoes)'
+      semana:
+        description: 'Semana (yyyy-MM-dd)'
         required: true
         type: string
 
@@ -25,17 +25,18 @@ jobs:
       - name: Instalar dependencias
         run: pip install -r requirements.txt
 
-      - name: Escrever payload
-        run: echo '${{ github.event.inputs.payload }}' > /tmp/payload.json
-
       - name: Correr alocacao
         env:
           GOOGLE_SERVICE_ACCOUNT: ${{ secrets.GOOGLE_SERVICE_ACCOUNT }}
-        run: python src/escala.py --payload /tmp/payload.json --output /tmp/resultado.json
+        run: |
+          python src/escala.py \
+            --payload data/payload.json \
+            --output data/resultado.json
 
-      - name: Upload resultado
-        uses: actions/upload-artifact@v4
-        with:
-          name: resultado-escala
-          path: /tmp/resultado.json
-          retention-days: 3
+      - name: Commit resultado
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/resultado.json
+          git diff --staged --quiet || git commit -m "resultado escala ${{ github.event.inputs.semana }}"
+          git push

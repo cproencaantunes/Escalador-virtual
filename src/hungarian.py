@@ -16,12 +16,19 @@ def sobreposicao(a_ini, a_fim, b_ini, b_fim) -> bool:
 
 
 def compativel_temporal(blocoA, blocoB, mesma_equipa) -> bool:
+    # Blocos em dias diferentes nunca conflituam
+    if blocoA.get("dia") != blocoB.get("dia"):
+        return True
+
     if mesma_equipa:
         return True
+
     a_ini, a_fim = blocoA["iniMin"], blocoA["fimMin"]
     b_ini, b_fim = blocoB["iniMin"], blocoB["fimMin"]
+
     if sobreposicao(a_ini, a_fim, b_ini, b_fim):
         return False
+
     if a_fim <= b_ini:
         return b_ini >= a_fim + INTERVALO_MIN
     else:
@@ -167,11 +174,13 @@ def alocar(blocos, disponibilidades_horas, afinidades, equipas, restricoes) -> l
                         for cir in macro["cirs"]
                         for t in macro["tSlots"]]
                 pct_media = sum(pcts) / max(len(pcts), 1)
-                bonus = 20 if any(
+                # Bónus forte: mesmo cirurgião+dia já alocado
+                ja_mesmo_cir_dia = any(
                     ja["cir"] == b["cir"] and ja["dia"] == b["dia"]
                     for b in macro["micro"]
                     for ja in alocacoes_ane.get(ane, [])
-                ) else 0
+                )
+                bonus = 60 if ja_mesmo_cir_dia else 0
                 candidatos.append((max(0, 100 - pct_media - bonus), ane, pct_media))
 
         if candidatos:
@@ -247,6 +256,41 @@ def alocar(blocos, disponibilidades_horas, afinidades, equipas, restricoes) -> l
                     if b["id"] not in resultado_map:
                         resultado_map[b["id"]] = None
                         razao_map[b["id"]]     = f"sem candidato {TURNO_L[t] if t < len(TURNO_L) else t}"
+
+    # --- Pass de continuidade: unificar ane para mesmo cir+dia ---
+    # Para cada cir+dia, ver qual ane foi mais usado e tentar reatribuir os outros
+    cir_dia_anes = defaultdict(list)  # (cir,dia) → [ane alocado]
+    for b in blocos:
+        ane = resultado_map.get(b["id"])
+        if ane:
+            cir_dia_anes[(b["cir"], b["dia"])].append(ane)
+
+    for (cir, dia), anes_lista in cir_dia_anes.items():
+        from collections import Counter
+        mais_comum = Counter(anes_lista).most_common(1)[0][0]
+        # Tentar reatribuir blocos deste cir+dia para o ane mais comum
+        blocos_cd = [b for b in blocos
+                     if b["cir"] == cir and b["dia"] == dia
+                     and resultado_map.get(b["id"]) != mais_comum]
+        for b in blocos_cd:
+            ane_actual = resultado_map.get(b["id"])
+            # Verificar se mais_comum pode cobrir este bloco
+            macro_single = {"dia": b["dia"], "tSlots": b.get("tSlots",[b["tIdx"]]),
+                            "micro": [b], "cirs": [b["cir"]]}
+            # Temporariamente remover este bloco das alocações do ane_actual
+            if ane_actual:
+                alocacoes_ane[ane_actual] = [x for x in alocacoes_ane[ane_actual]
+                                              if x["id"] != b["id"]]
+            pode, _ = ane_cobre_macro(mais_comum, macro_single, disponibilidades_horas,
+                                       restricoes_ane, alocacoes_ane, equipas_set)
+            if pode:
+                resultado_map[b["id"]] = mais_comum
+                razao_map[b["id"]] = "continuidade cir+dia"
+                alocacoes_ane[mais_comum].append(b)
+            else:
+                # Reverter
+                if ane_actual:
+                    alocacoes_ane[ane_actual].append(b)
 
     # Diagnóstico: top razões de falha
     sem = [razao_map.get(b["id"],"?") for b in blocos if not resultado_map.get(b["id"])]

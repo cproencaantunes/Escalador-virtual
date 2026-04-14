@@ -207,8 +207,8 @@
     },
     {
       "id": "B41",
-      "ane": null,
-      "razao": "sem candidato Seg-T"
+      "ane": "MJ",
+      "razao": "continuidade cir+dia"
     },
     {
       "id": "B42",
@@ -222,8 +222,8 @@
     },
     {
       "id": "B44",
-      "ane": "CLR",
-      "razao": "disponível Ter-M"
+      "ane": "CA",
+      "razao": "afinidade 100% Ter-M"
     },
     {
       "id": "B45",
@@ -237,8 +237,8 @@
     },
     {
       "id": "B47",
-      "ane": "CA",
-      "razao": "disponível Ter-M"
+      "ane": "AP",
+      "razao": "afinidade 50% Ter-M"
     },
     {
       "id": "B48",
@@ -247,8 +247,8 @@
     },
     {
       "id": "B49",
-      "ane": null,
-      "razao": "sem candidato Ter-M"
+      "ane": "CC",
+      "razao": "disponível Ter-M"
     },
     {
       "id": "B50",
@@ -257,8 +257,8 @@
     },
     {
       "id": "B51",
-      "ane": null,
-      "razao": "sem candidato Ter-M"
+      "ane": "CC",
+      "razao": "disponível Ter-M"
     },
     {
       "id": "B52",
@@ -267,8 +267,8 @@
     },
     {
       "id": "B53",
-      "ane": null,
-      "razao": "sem candidato Ter-M"
+      "ane": "CC",
+      "razao": "disponível Ter-M"
     },
     {
       "id": "B54",
@@ -277,12 +277,12 @@
     },
     {
       "id": "B55",
-      "ane": null,
-      "razao": "sem candidato Ter-M"
+      "ane": "CC",
+      "razao": "disponível Ter-M"
     },
     {
       "id": "B56",
-      "ane": "LSS",
+      "ane": "CLR",
       "razao": "disponível Ter-M"
     },
     {
@@ -302,18 +302,18 @@
     },
     {
       "id": "B60",
-      "ane": "CLR",
-      "razao": "afinidade 19% Ter-T"
+      "ane": "CA",
+      "razao": "disponível Ter-T"
     },
     {
       "id": "B61",
-      "ane": "CLR",
-      "razao": "afinidade 19% Ter-T"
+      "ane": "CA",
+      "razao": "disponível Ter-T"
     },
     {
       "id": "B62",
-      "ane": "CLR",
-      "razao": "afinidade 19% Ter-T"
+      "ane": "CA",
+      "razao": "disponível Ter-T"
     },
     {
       "id": "B63",
@@ -327,7 +327,7 @@
     },
     {
       "id": "B65",
-      "ane": "MC",
+      "ane": "AP",
       "razao": "disponível Ter-M"
     },
     {
@@ -337,33 +337,33 @@
     },
     {
       "id": "B67",
-      "ane": "FFD",
+      "ane": "AF",
       "razao": "disponível Ter-M"
     },
     {
       "id": "B68",
-      "ane": "FFD",
+      "ane": "AF",
       "razao": "disponível Ter-M"
     },
     {
       "id": "B69",
-      "ane": "MSM",
+      "ane": "DH",
       "razao": "disponível Ter-M"
     },
     {
       "id": "B70",
-      "ane": "FFD",
+      "ane": "AF",
       "razao": "disponível Ter-M"
     },
     {
       "id": "B71",
-      "ane": "IFL",
+      "ane": "VB",
       "razao": "disponível Ter-T"
     },
     {
       "id": "B72",
-      "ane": "MC",
-      "razao": "disponível Ter-M"
+      "ane": "TC",
+      "razao": "afinidade 82% Ter-M"
     },
     {
       "id": "B73",
@@ -372,163 +372,163 @@
     },
     {
       "id": "B74",
-      "ane": null,
-      "razao": "sem candidato Ter-M"
+      "ane": "TC",
+      "razao": "disponível Ter-M+Ter-T"
     },
     {
       "id": "B75",
-      "ane": null,
-      "razao": "sem candidato Ter-T"
+      "ane": "TC",
+      "razao": "disponível Ter-M+Ter-T"
     },
     {
       "id": "B76",
-      "ane": "VB",
-      "razao": "disponível Ter-M+Ter-T"
+      "ane": "HS",
+      "razao": "afinidade 46% Ter-M+Ter-T"
     },
     {
       "id": "B77",
-      "ane": null,
-      "razao": "sem candidato Ter-M"
+      "ane": "MR",
+      "razao": "disponível Ter-M+Ter-T"
     },
     {
       "id": "B78",
-      "ane": "VB",
-      "razao": "disponível Ter-M+Ter-T"
+      "ane": "HS",
+      "razao": "afinidade 46% Ter-M+Ter-T"
     },
     {
       "id": "B79",
-      "ane": null,
-      "razao": "sem candidato Ter-M"
+      "ane": "MR",
+      "razao": "disponível Ter-M+Ter-T"
     },
     {
       "id": "B80",
-      "ane": "VB",
-      "razao": "disponível Ter-M+Ter-T"
+      "ane": "HS",
+      "razao": "afinidade 46% Ter-M+Ter-T"
     },
     {
       "id": "B81",
-      "ane": null,
-      "razao": "sem candidato Ter-M"
+      "ane": "MR",
+      "razao": "disponível Ter-M+Ter-T"
     },
     {
       "id": "B82",
-      "ane": "VB",
-      "razao": "disponível Ter-M+Ter-T"
+      "ane": "HS",
+      "razao": "afinidade 46% Ter-M+Ter-T"
     },
     {
       "id": "B83",
-      "ane": null,
-      "razao": "sem candidato Ter-M"
+      "ane": "MR",
+      "razao": "disponível Ter-M+Ter-T"
     },
     {
       "id": "B84",
-      "ane": "VB",
-      "razao": "disponível Ter-M+Ter-T"
+      "ane": "HS",
+      "razao": "afinidade 46% Ter-M+Ter-T"
     },
     {
       "id": "B85",
-      "ane": null,
-      "razao": "sem candidato Ter-M"
+      "ane": "MR",
+      "razao": "disponível Ter-M+Ter-T"
     },
     {
       "id": "B86",
-      "ane": "VB",
-      "razao": "disponível Ter-M+Ter-T"
+      "ane": "HS",
+      "razao": "afinidade 46% Ter-M+Ter-T"
     },
     {
       "id": "B87",
-      "ane": null,
-      "razao": "sem candidato Ter-M"
+      "ane": "MR",
+      "razao": "disponível Ter-M+Ter-T"
     },
     {
       "id": "B88",
-      "ane": "VB",
-      "razao": "disponível Ter-M+Ter-T"
+      "ane": "HS",
+      "razao": "afinidade 46% Ter-M+Ter-T"
     },
     {
       "id": "B89",
-      "ane": null,
-      "razao": "sem candidato Ter-M"
+      "ane": "MR",
+      "razao": "disponível Ter-M+Ter-T"
     },
     {
       "id": "B90",
-      "ane": "VB",
-      "razao": "disponível Ter-M+Ter-T"
+      "ane": "HS",
+      "razao": "afinidade 46% Ter-M+Ter-T"
     },
     {
       "id": "B91",
-      "ane": "DM",
-      "razao": "afinidade 0% Ter-T"
+      "ane": "MR",
+      "razao": "disponível Ter-M+Ter-T"
     },
     {
       "id": "B92",
-      "ane": "VB",
-      "razao": "disponível Ter-M+Ter-T"
+      "ane": "HS",
+      "razao": "afinidade 46% Ter-M+Ter-T"
     },
     {
       "id": "B93",
-      "ane": "DM",
-      "razao": "afinidade 0% Ter-T"
+      "ane": "MR",
+      "razao": "disponível Ter-M+Ter-T"
     },
     {
       "id": "B94",
-      "ane": "VB",
-      "razao": "disponível Ter-M+Ter-T"
+      "ane": "HS",
+      "razao": "afinidade 46% Ter-M+Ter-T"
     },
     {
       "id": "B95",
-      "ane": "DM",
-      "razao": "afinidade 0% Ter-T"
+      "ane": "MR",
+      "razao": "disponível Ter-M+Ter-T"
     },
     {
       "id": "B96",
-      "ane": "VB",
-      "razao": "disponível Ter-M+Ter-T"
+      "ane": "HS",
+      "razao": "afinidade 46% Ter-M+Ter-T"
     },
     {
       "id": "B97",
-      "ane": null,
-      "razao": "sem candidato Ter-M"
+      "ane": "MM",
+      "razao": "afinidade 100% Ter-M"
     },
     {
       "id": "B98",
-      "ane": null,
-      "razao": "sem candidato Ter-M"
+      "ane": "MM",
+      "razao": "afinidade 100% Ter-M"
     },
     {
       "id": "B99",
-      "ane": null,
-      "razao": "sem candidato Ter-M"
+      "ane": "MM",
+      "razao": "afinidade 100% Ter-M"
     },
     {
       "id": "B100",
-      "ane": null,
-      "razao": "sem candidato Ter-M"
+      "ane": "MM",
+      "razao": "afinidade 100% Ter-M"
     },
     {
       "id": "B101",
-      "ane": null,
-      "razao": "sem candidato Ter-M"
+      "ane": "MM",
+      "razao": "afinidade 100% Ter-M"
     },
     {
       "id": "B102",
-      "ane": "MV",
-      "razao": "disponível Ter-M+Ter-T"
+      "ane": "CR",
+      "razao": "afinidade 42% Ter-M+Ter-T"
     },
     {
       "id": "B103",
-      "ane": "MV",
-      "razao": "disponível Ter-M+Ter-T"
+      "ane": "CR",
+      "razao": "afinidade 42% Ter-M+Ter-T"
     },
     {
       "id": "B104",
-      "ane": "MV",
-      "razao": "disponível Ter-M+Ter-T"
+      "ane": "CR",
+      "razao": "afinidade 42% Ter-M+Ter-T"
     },
     {
       "id": "B105",
-      "ane": null,
-      "razao": "sem candidato Ter-M"
+      "ane": "CC",
+      "razao": "disponível Ter-M"
     },
     {
       "id": "B106",
@@ -547,208 +547,208 @@
     },
     {
       "id": "B109",
-      "ane": "RSB",
-      "razao": "disponível Qua-T"
+      "ane": "PP",
+      "razao": "afinidade 80% Qua-T"
     },
     {
       "id": "B110",
-      "ane": "CG",
-      "razao": "disponível Qua-M"
+      "ane": "AP",
+      "razao": "afinidade 39% Qua-M"
     },
     {
       "id": "B111",
-      "ane": "CG",
-      "razao": "disponível Qua-M"
+      "ane": "AP",
+      "razao": "afinidade 39% Qua-M"
     },
     {
       "id": "B112",
-      "ane": null,
-      "razao": "sem candidato Qua-T"
+      "ane": "DH",
+      "razao": "disponível Qua-T"
     },
     {
       "id": "B113",
-      "ane": null,
-      "razao": "sem candidato Qua-M"
+      "ane": "VB",
+      "razao": "afinidade 25% Qua-M+Qua-T"
     },
     {
       "id": "B114",
-      "ane": null,
-      "razao": "sem candidato Qua-M"
+      "ane": "VB",
+      "razao": "afinidade 25% Qua-M+Qua-T"
     },
     {
       "id": "B115",
-      "ane": null,
-      "razao": "sem candidato Qua-M"
+      "ane": "VB",
+      "razao": "afinidade 25% Qua-M+Qua-T"
     },
     {
       "id": "B116",
-      "ane": "LM",
-      "razao": "afinidade 0% Qua-T"
+      "ane": "VB",
+      "razao": "afinidade 25% Qua-M+Qua-T"
     },
     {
       "id": "B117",
-      "ane": "LSS",
+      "ane": "MJ",
       "razao": "disponível Qua-T"
     },
     {
       "id": "B118",
-      "ane": "LSS",
+      "ane": "MJ",
       "razao": "disponível Qua-T"
     },
     {
       "id": "B119",
-      "ane": null,
-      "razao": "sem candidato Qua-M"
+      "ane": "RSB",
+      "razao": "afinidade 80% Qua-M"
     },
     {
       "id": "B120",
-      "ane": null,
-      "razao": "sem candidato Qua-M"
+      "ane": "RSB",
+      "razao": "afinidade 80% Qua-M"
     },
     {
       "id": "B121",
-      "ane": null,
-      "razao": "sem candidato Qua-M"
+      "ane": "RSB",
+      "razao": "afinidade 80% Qua-M"
     },
     {
       "id": "B122",
-      "ane": null,
-      "razao": "sem candidato Qua-M"
+      "ane": "RSB",
+      "razao": "afinidade 80% Qua-M"
     },
     {
       "id": "B123",
-      "ane": null,
-      "razao": "sem candidato Qua-M"
+      "ane": "DH",
+      "razao": "afinidade 42% Qua-M+Qua-T"
     },
     {
       "id": "B124",
-      "ane": null,
-      "razao": "sem candidato Qua-M"
+      "ane": "LSS",
+      "razao": "disponível Qua-M"
     },
     {
       "id": "B125",
-      "ane": null,
-      "razao": "sem candidato Qua-M"
+      "ane": "LSS",
+      "razao": "disponível Qua-M"
     },
     {
       "id": "B126",
-      "ane": null,
-      "razao": "sem candidato Qua-M"
+      "ane": "LSS",
+      "razao": "disponível Qua-M"
     },
     {
       "id": "B127",
-      "ane": null,
-      "razao": "sem candidato Qua-M"
+      "ane": "LSS",
+      "razao": "disponível Qua-M"
     },
     {
       "id": "B128",
-      "ane": null,
-      "razao": "sem candidato Qua-M"
+      "ane": "DH",
+      "razao": "afinidade 42% Qua-M+Qua-T"
     },
     {
       "id": "B129",
-      "ane": null,
-      "razao": "sem candidato Qua-T"
+      "ane": "DH",
+      "razao": "afinidade 42% Qua-M+Qua-T"
     },
     {
       "id": "B130",
-      "ane": null,
-      "razao": "sem candidato Qua-T"
+      "ane": "DH",
+      "razao": "afinidade 42% Qua-M+Qua-T"
     },
     {
       "id": "B131",
-      "ane": "ZCN",
-      "razao": "disponível Qua-M"
+      "ane": "TC",
+      "razao": "afinidade 18% Qua-M"
     },
     {
       "id": "B132",
-      "ane": "ZCN",
-      "razao": "disponível Qua-M"
+      "ane": "TC",
+      "razao": "afinidade 18% Qua-M"
     },
     {
       "id": "B133",
-      "ane": "CG",
-      "razao": "disponível Qua-M"
+      "ane": "TC",
+      "razao": "afinidade 15% Qua-M"
     },
     {
       "id": "B134",
-      "ane": null,
-      "razao": "sem candidato Qua-T"
+      "ane": "LSS",
+      "razao": "disponível Qua-T"
     },
     {
       "id": "B135",
-      "ane": null,
-      "razao": "sem candidato Qua-M"
+      "ane": "MJ",
+      "razao": "afinidade 11% Qua-M+Qua-T"
     },
     {
       "id": "B136",
-      "ane": null,
-      "razao": "sem candidato Qua-M"
+      "ane": "MJ",
+      "razao": "afinidade 11% Qua-M+Qua-T"
     },
     {
       "id": "B137",
-      "ane": null,
-      "razao": "sem candidato Qua-M"
+      "ane": "MJ",
+      "razao": "afinidade 11% Qua-M+Qua-T"
     },
     {
       "id": "B138",
-      "ane": null,
-      "razao": "sem candidato Qua-M"
+      "ane": "MJ",
+      "razao": "afinidade 11% Qua-M+Qua-T"
     },
     {
       "id": "B139",
-      "ane": null,
-      "razao": "sem candidato Qua-T"
+      "ane": "MJ",
+      "razao": "afinidade 11% Qua-M+Qua-T"
     },
     {
       "id": "B140",
-      "ane": null,
-      "razao": "sem candidato Qua-M"
+      "ane": "ACS",
+      "razao": "disponível Qua-M"
     },
     {
       "id": "B141",
-      "ane": null,
-      "razao": "sem candidato Qua-M"
+      "ane": "PP",
+      "razao": "disponível Qua-M"
     },
     {
       "id": "B142",
-      "ane": null,
-      "razao": "sem candidato Qua-T"
+      "ane": "MR",
+      "razao": "disponível Qua-T"
     },
     {
       "id": "B143",
-      "ane": null,
-      "razao": "sem candidato Qua-T"
+      "ane": "MR",
+      "razao": "disponível Qua-T"
     },
     {
       "id": "B144",
-      "ane": null,
-      "razao": "sem candidato Qua-T"
+      "ane": "MR",
+      "razao": "disponível Qua-T"
     },
     {
       "id": "B145",
-      "ane": null,
-      "razao": "sem candidato Qua-T"
+      "ane": "TC",
+      "razao": "afinidade 15% Qua-T"
     },
     {
       "id": "B146",
-      "ane": null,
-      "razao": "sem candidato Qua-M"
+      "ane": "MM",
+      "razao": "afinidade 69% Qua-M"
     },
     {
       "id": "B147",
-      "ane": null,
-      "razao": "sem candidato Qua-M"
+      "ane": "MM",
+      "razao": "afinidade 69% Qua-M"
     },
     {
       "id": "B148",
-      "ane": null,
-      "razao": "sem candidato Qua-M"
+      "ane": "MM",
+      "razao": "afinidade 69% Qua-M"
     },
     {
       "id": "B149",
-      "ane": null,
-      "razao": "sem candidato Qua-T"
+      "ane": "ACS",
+      "razao": "disponível Qua-T"
     },
     {
       "id": "B150",
@@ -757,28 +757,28 @@
     },
     {
       "id": "B151",
-      "ane": null,
-      "razao": "sem candidato Qua-T"
+      "ane": "ACS",
+      "razao": "disponível Qua-T"
     },
     {
       "id": "B152",
-      "ane": null,
-      "razao": "sem candidato Qua-M"
+      "ane": "PP",
+      "razao": "disponível Qua-M+Qua-T"
     },
     {
       "id": "B153",
-      "ane": null,
-      "razao": "sem candidato Qua-T"
+      "ane": "PP",
+      "razao": "disponível Qua-M+Qua-T"
     },
     {
       "id": "B154",
-      "ane": null,
-      "razao": "sem candidato Qua-T"
+      "ane": "PP",
+      "razao": "disponível Qua-M+Qua-T"
     },
     {
       "id": "B155",
-      "ane": null,
-      "razao": "sem candidato Qui-M"
+      "ane": "CA",
+      "razao": "disponível Qui-M+Qui-T"
     },
     {
       "id": "B156",
@@ -787,37 +787,37 @@
     },
     {
       "id": "B157",
-      "ane": null,
-      "razao": "sem candidato Qui-M"
+      "ane": "CLR",
+      "razao": "afinidade 40% Qui-M+Qui-T"
     },
     {
       "id": "B158",
-      "ane": null,
-      "razao": "sem candidato Qui-M"
+      "ane": "CLR",
+      "razao": "afinidade 40% Qui-M+Qui-T"
     },
     {
       "id": "B159",
-      "ane": null,
-      "razao": "sem candidato Qui-M"
+      "ane": "CLR",
+      "razao": "afinidade 40% Qui-M+Qui-T"
     },
     {
       "id": "B160",
-      "ane": null,
-      "razao": "sem candidato Qui-T"
+      "ane": "CLR",
+      "razao": "afinidade 40% Qui-M+Qui-T"
     },
     {
       "id": "B161",
-      "ane": "DS",
-      "razao": "disponível Qui-T"
+      "ane": "CA",
+      "razao": "afinidade 16% Qui-T"
     },
     {
       "id": "B162",
-      "ane": "ADR",
-      "razao": "disponível Qui-M"
+      "ane": "RSB",
+      "razao": "afinidade 57% Qui-M"
     },
     {
       "id": "B163",
-      "ane": "JB",
+      "ane": "CC",
       "razao": "disponível Qui-M"
     },
     {
@@ -842,8 +842,8 @@
     },
     {
       "id": "B168",
-      "ane": null,
-      "razao": "sem candidato Qui-T"
+      "ane": "DS",
+      "razao": "continuidade cir+dia"
     },
     {
       "id": "B169",
@@ -852,73 +852,73 @@
     },
     {
       "id": "B170",
-      "ane": null,
-      "razao": "sem candidato Qui-M"
+      "ane": "ACS",
+      "razao": "disponível Qui-M"
     },
     {
       "id": "B171",
-      "ane": null,
-      "razao": "sem candidato Qui-M"
+      "ane": "CG",
+      "razao": "disponível Qui-M"
     },
     {
       "id": "B172",
-      "ane": null,
-      "razao": "sem candidato Qui-T"
+      "ane": "CC",
+      "razao": "disponível Qui-T"
     },
     {
       "id": "B173",
-      "ane": null,
-      "razao": "sem candidato Qui-T"
+      "ane": "CC",
+      "razao": "disponível Qui-T"
     },
     {
       "id": "B174",
-      "ane": null,
-      "razao": "sem candidato Qui-M"
+      "ane": "AF",
+      "razao": "disponível Qui-M+Qui-T"
     },
     {
       "id": "B175",
-      "ane": null,
-      "razao": "sem candidato Qui-M"
+      "ane": "AF",
+      "razao": "disponível Qui-M+Qui-T"
     },
     {
       "id": "B176",
-      "ane": null,
-      "razao": "sem candidato Qui-M"
+      "ane": "AF",
+      "razao": "disponível Qui-M+Qui-T"
     },
     {
       "id": "B177",
-      "ane": null,
-      "razao": "sem candidato Qui-T"
+      "ane": "AF",
+      "razao": "disponível Qui-M+Qui-T"
     },
     {
       "id": "B178",
-      "ane": null,
-      "razao": "sem candidato Qui-T"
+      "ane": "AF",
+      "razao": "disponível Qui-M+Qui-T"
     },
     {
       "id": "B179",
-      "ane": null,
-      "razao": "sem candidato Qui-T"
+      "ane": "AF",
+      "razao": "disponível Qui-M+Qui-T"
     },
     {
       "id": "B180",
-      "ane": "SR",
+      "ane": "ADR",
       "razao": "disponível Qui-M"
     },
     {
       "id": "B181",
-      "ane": null,
-      "razao": "sem candidato Qui-M"
+      "ane": "SR",
+      "razao": "disponível Qui-M"
     },
     {
       "id": "B182",
-      "ane": "DM",
+      "ane": "AP",
       "razao": "disponível Qui-M"
     },
     {
       "id": "B183",
-      "ane": null,
-      "razao": "sem candidato Qui-T"
+      "ane": "DM",
+      "razao": "disponível Qui-T"
     },
     {
       "id": "B184",
@@ -932,43 +932,43 @@
     },
     {
       "id": "B186",
-      "ane": null,
-      "razao": "sem candidato Qui-M"
+      "ane": "AP",
+      "razao": "disponível Qui-M"
     },
     {
       "id": "B187",
+      "ane": "AP",
+      "razao": "disponível Qui-M+Qui-T"
+    },
+    {
+      "id": "B188",
+      "ane": "ACS",
+      "razao": "disponível Qui-T"
+    },
+    {
+      "id": "B189",
+      "ane": "AP",
+      "razao": "disponível Qui-M+Qui-T"
+    },
+    {
+      "id": "B190",
+      "ane": "TC",
+      "razao": "afinidade 82% Qui-M"
+    },
+    {
+      "id": "B191",
+      "ane": "TC",
+      "razao": "afinidade 82% Qui-M"
+    },
+    {
+      "id": "B192",
       "ane": "ADR",
       "razao": "afinidade 0% Qui-M"
     },
     {
-      "id": "B188",
-      "ane": null,
-      "razao": "sem candidato Qui-T"
-    },
-    {
-      "id": "B189",
-      "ane": null,
-      "razao": "sem candidato Qui-T"
-    },
-    {
-      "id": "B190",
-      "ane": null,
-      "razao": "sem candidato Qui-M"
-    },
-    {
-      "id": "B191",
-      "ane": null,
-      "razao": "sem candidato Qui-M"
-    },
-    {
-      "id": "B192",
-      "ane": null,
-      "razao": "sem candidato Qui-M"
-    },
-    {
       "id": "B193",
-      "ane": null,
-      "razao": "sem candidato Qui-T"
+      "ane": "PP",
+      "razao": "afinidade 20% Qui-T"
     },
     {
       "id": "B194",
@@ -977,93 +977,93 @@
     },
     {
       "id": "B195",
-      "ane": null,
-      "razao": "sem candidato Qui-T"
+      "ane": "ACS",
+      "razao": "disponível Qui-T"
     },
     {
       "id": "B196",
-      "ane": null,
-      "razao": "sem candidato Qui-T"
+      "ane": "DM",
+      "razao": "disponível Qui-T"
     },
     {
       "id": "B197",
-      "ane": null,
-      "razao": "sem candidato Qui-M"
+      "ane": "CA",
+      "razao": "disponível Qui-M"
     },
     {
       "id": "B198",
-      "ane": null,
-      "razao": "sem candidato Qui-M"
+      "ane": "SR",
+      "razao": "afinidade 17% Qui-M"
     },
     {
       "id": "B199",
-      "ane": null,
-      "razao": "sem candidato Qui-T"
+      "ane": "CG",
+      "razao": "disponível Qui-T"
     },
     {
       "id": "B200",
-      "ane": null,
-      "razao": "sem candidato Qui-M"
+      "ane": "CC",
+      "razao": "disponível Qui-M"
     },
     {
       "id": "B201",
-      "ane": null,
-      "razao": "sem candidato Qui-M"
+      "ane": "CC",
+      "razao": "disponível Qui-M"
     },
     {
       "id": "B202",
-      "ane": null,
-      "razao": "sem candidato Qui-M"
+      "ane": "CC",
+      "razao": "disponível Qui-M"
     },
     {
       "id": "B203",
-      "ane": null,
-      "razao": "sem candidato Qui-M"
+      "ane": "CC",
+      "razao": "disponível Qui-M"
     },
     {
       "id": "B204",
-      "ane": null,
-      "razao": "sem candidato Sex-M"
+      "ane": "MM",
+      "razao": "afinidade 29% Sex-M"
     },
     {
       "id": "B205",
-      "ane": null,
-      "razao": "sem candidato Sex-M"
+      "ane": "MM",
+      "razao": "afinidade 29% Sex-M"
     },
     {
       "id": "B206",
-      "ane": null,
-      "razao": "sem candidato Sex-M"
+      "ane": "DH",
+      "razao": "afinidade 12% Sex-M+Sex-T"
     },
     {
       "id": "B207",
-      "ane": null,
-      "razao": "sem candidato Sex-T"
+      "ane": "MSM",
+      "razao": "disponível Sex-T"
     },
     {
       "id": "B208",
-      "ane": "MC",
-      "razao": "afinidade 0% Sex-T"
+      "ane": "DH",
+      "razao": "afinidade 12% Sex-M+Sex-T"
     },
     {
       "id": "B209",
-      "ane": "MC",
-      "razao": "afinidade 0% Sex-T"
+      "ane": "DH",
+      "razao": "afinidade 12% Sex-M+Sex-T"
     },
     {
       "id": "B210",
-      "ane": null,
-      "razao": "sem candidato Sex-T"
+      "ane": "MSM",
+      "razao": "disponível Sex-T"
     },
     {
       "id": "B211",
-      "ane": null,
-      "razao": "sem candidato Sex-M"
+      "ane": "TC",
+      "razao": "afinidade 21% Sex-M"
     },
     {
       "id": "B212",
-      "ane": null,
-      "razao": "sem candidato Sex-M"
+      "ane": "TC",
+      "razao": "afinidade 21% Sex-M"
     },
     {
       "id": "B213",
@@ -1077,8 +1077,8 @@
     },
     {
       "id": "B215",
-      "ane": null,
-      "razao": "sem candidato Sex-T"
+      "ane": "CA",
+      "razao": "continuidade cir+dia"
     },
     {
       "id": "B216",
@@ -1092,53 +1092,53 @@
     },
     {
       "id": "B218",
-      "ane": null,
-      "razao": "sem candidato Sex-M"
+      "ane": "CC",
+      "razao": "disponível Sex-M"
     },
     {
       "id": "B219",
-      "ane": null,
-      "razao": "sem candidato Sex-M"
+      "ane": "CC",
+      "razao": "disponível Sex-M"
     },
     {
       "id": "B220",
-      "ane": null,
-      "razao": "sem candidato Sex-T"
+      "ane": "MC",
+      "razao": "disponível Sex-T"
     },
     {
       "id": "B221",
-      "ane": null,
-      "razao": "sem candidato Sex-M"
+      "ane": "CR",
+      "razao": "disponível Sex-M"
     },
     {
       "id": "B222",
-      "ane": null,
-      "razao": "sem candidato Sex-T"
+      "ane": "PP",
+      "razao": "disponível Sex-T"
     },
     {
       "id": "B223",
-      "ane": null,
-      "razao": "sem candidato Sex-T"
+      "ane": "PP",
+      "razao": "disponível Sex-T"
     },
     {
       "id": "B224",
-      "ane": null,
-      "razao": "sem candidato Sex-T"
+      "ane": "VB",
+      "razao": "disponível Sex-T"
     },
     {
       "id": "B225",
-      "ane": null,
-      "razao": "sem candidato Sex-T"
+      "ane": "VB",
+      "razao": "disponível Sex-T"
     },
     {
       "id": "B226",
-      "ane": null,
-      "razao": "sem candidato Sex-M"
+      "ane": "DH",
+      "razao": "disponível Sex-M"
     },
     {
       "id": "B227",
-      "ane": null,
-      "razao": "sem candidato Sex-M"
+      "ane": "DH",
+      "razao": "disponível Sex-M"
     },
     {
       "id": "B228",
@@ -1152,48 +1152,48 @@
     },
     {
       "id": "B230",
-      "ane": null,
-      "razao": "sem candidato Sex-M"
+      "ane": "DM",
+      "razao": "disponível Sex-M"
     },
     {
       "id": "B231",
-      "ane": null,
-      "razao": "sem candidato Sex-M"
+      "ane": "CR",
+      "razao": "disponível Sex-M"
     },
     {
       "id": "B232",
-      "ane": null,
-      "razao": "sem candidato Sex-M"
+      "ane": "CR",
+      "razao": "disponível Sex-M"
     },
     {
       "id": "B233",
-      "ane": null,
-      "razao": "sem candidato Sex-M"
+      "ane": "CR",
+      "razao": "disponível Sex-M"
     },
     {
       "id": "B234",
-      "ane": null,
-      "razao": "sem candidato Sex-T"
+      "ane": "CR",
+      "razao": "disponível Sex-T"
     },
     {
       "id": "B235",
-      "ane": null,
-      "razao": "sem candidato Sex-T"
+      "ane": "CR",
+      "razao": "disponível Sex-T"
     },
     {
       "id": "B236",
-      "ane": null,
-      "razao": "sem candidato Sex-M"
+      "ane": "ACS",
+      "razao": "disponível Sex-M"
     },
     {
       "id": "B237",
-      "ane": null,
-      "razao": "sem candidato Sex-T"
+      "ane": "MV",
+      "razao": "disponível Sex-T"
     },
     {
       "id": "B238",
-      "ane": null,
-      "razao": "sem candidato Sex-T"
+      "ane": "MV",
+      "razao": "disponível Sex-T"
     },
     {
       "id": "T0",
@@ -1327,63 +1327,63 @@
     },
     {
       "id": "T26",
-      "ane": null,
-      "razao": "sem candidato Ter-M"
+      "ane": "DM",
+      "razao": "afinidade 36% Ter-M"
     },
     {
       "id": "T27",
-      "ane": null,
-      "razao": "sem candidato Ter-M"
+      "ane": "RSB",
+      "razao": "afinidade 73% Ter-M"
     },
     {
       "id": "T28",
-      "ane": null,
-      "razao": "sem candidato Ter-M"
+      "ane": "CLR",
+      "razao": "disponível Ter-M"
     },
     {
       "id": "T29",
-      "ane": null,
-      "razao": "sem candidato Ter-M"
+      "ane": "EB",
+      "razao": "afinidade 100% Ter-M"
     },
     {
       "id": "T30",
-      "ane": null,
-      "razao": "sem candidato Ter-M"
+      "ane": "MSM",
+      "razao": "afinidade 28% Ter-M+Ter-T"
     },
     {
       "id": "T31",
-      "ane": null,
-      "razao": "sem candidato Ter-M"
+      "ane": "CP",
+      "razao": "disponível Ter-M"
     },
     {
       "id": "T32",
-      "ane": null,
-      "razao": "sem candidato Ter-M"
+      "ane": "CR",
+      "razao": "disponível Ter-M"
     },
     {
       "id": "T33",
-      "ane": null,
-      "razao": "sem candidato Ter-M"
+      "ane": "FFD",
+      "razao": "disponível Ter-M"
     },
     {
       "id": "T34",
-      "ane": null,
-      "razao": "sem candidato Ter-M"
+      "ane": "LSS",
+      "razao": "disponível Ter-M"
     },
     {
       "id": "T35",
-      "ane": null,
-      "razao": "sem candidato Ter-M"
+      "ane": "MC",
+      "razao": "disponível Ter-M"
     },
     {
       "id": "T36",
-      "ane": null,
-      "razao": "sem candidato Ter-M"
+      "ane": "VB",
+      "razao": "afinidade 100% Ter-M"
     },
     {
       "id": "T37",
-      "ane": null,
-      "razao": "sem candidato Ter-M"
+      "ane": "PP",
+      "razao": "disponível Ter-M"
     },
     {
       "id": "T38",
@@ -1392,168 +1392,168 @@
     },
     {
       "id": "T39",
-      "ane": null,
-      "razao": "sem candidato Ter-M"
+      "ane": "MV",
+      "razao": "disponível Ter-M"
     },
     {
       "id": "T40",
-      "ane": null,
-      "razao": "sem candidato Ter-M"
+      "ane": "MJ",
+      "razao": "disponível Ter-M"
     },
     {
       "id": "T41",
-      "ane": null,
-      "razao": "sem candidato Ter-T"
-    },
-    {
-      "id": "T42",
       "ane": "EB",
       "razao": "afinidade 50% Ter-T"
     },
     {
+      "id": "T42",
+      "ane": "MSM",
+      "razao": "afinidade 28% Ter-M+Ter-T"
+    },
+    {
       "id": "T43",
-      "ane": null,
-      "razao": "sem candidato Ter-T"
+      "ane": "DM",
+      "razao": "disponível Ter-T"
     },
     {
       "id": "T44",
-      "ane": null,
-      "razao": "sem candidato Ter-T"
+      "ane": "MV",
+      "razao": "afinidade 67% Ter-T"
     },
     {
       "id": "T45",
-      "ane": null,
-      "razao": "sem candidato Ter-T"
+      "ane": "FFD",
+      "razao": "disponível Ter-T"
     },
     {
       "id": "T46",
-      "ane": null,
-      "razao": "sem candidato Ter-T"
+      "ane": "IFL",
+      "razao": "disponível Ter-T"
     },
     {
       "id": "T47",
-      "ane": null,
-      "razao": "sem candidato Ter-T"
+      "ane": "MJ",
+      "razao": "disponível Ter-T"
     },
     {
       "id": "T48",
-      "ane": null,
-      "razao": "sem candidato Ter-T"
+      "ane": "MM",
+      "razao": "disponível Ter-T"
     },
     {
       "id": "T49",
-      "ane": "MSM",
+      "ane": "CC",
       "razao": "disponível Ter-T"
     },
     {
       "id": "T50",
-      "ane": null,
-      "razao": "sem candidato Ter-T"
+      "ane": "RSB",
+      "razao": "afinidade 100% Ter-T"
     },
     {
       "id": "T51",
-      "ane": null,
-      "razao": "sem candidato Ter-T"
+      "ane": "PP",
+      "razao": "disponível Ter-T"
     },
     {
       "id": "T52",
-      "ane": null,
-      "razao": "sem candidato Qua-M"
+      "ane": "AF",
+      "razao": "disponível Qua-M"
     },
     {
       "id": "T53",
-      "ane": null,
-      "razao": "sem candidato Qua-M"
+      "ane": "CA",
+      "razao": "disponível Qua-M"
     },
     {
       "id": "T54",
-      "ane": null,
-      "razao": "sem candidato Qua-M"
+      "ane": "EB",
+      "razao": "afinidade 100% Qua-M"
     },
     {
       "id": "T55",
-      "ane": null,
-      "razao": "sem candidato Qua-M"
+      "ane": "CC",
+      "razao": "disponível Qua-M"
     },
     {
       "id": "T56",
-      "ane": null,
-      "razao": "sem candidato Qua-M"
+      "ane": "DH",
+      "razao": "afinidade 27% Qua-M"
     },
     {
       "id": "T57",
-      "ane": null,
-      "razao": "sem candidato Qua-M"
+      "ane": "CG",
+      "razao": "disponível Qua-M"
     },
     {
       "id": "T58",
-      "ane": null,
-      "razao": "sem candidato Qua-M"
+      "ane": "CR",
+      "razao": "disponível Qua-M"
     },
     {
       "id": "T59",
-      "ane": null,
-      "razao": "sem candidato Qua-M"
+      "ane": "DM",
+      "razao": "disponível Qua-M"
     },
     {
       "id": "T60",
-      "ane": null,
-      "razao": "sem candidato Qua-M"
+      "ane": "DS",
+      "razao": "disponível Qua-M"
     },
     {
       "id": "T61",
-      "ane": null,
-      "razao": "sem candidato Qua-M"
+      "ane": "MR",
+      "razao": "disponível Qua-M"
     },
     {
       "id": "T62",
-      "ane": null,
-      "razao": "sem candidato Qua-M"
+      "ane": "MSM",
+      "razao": "disponível Qua-M"
     },
     {
       "id": "T63",
-      "ane": null,
-      "razao": "sem candidato Qua-M"
+      "ane": "MV",
+      "razao": "disponível Qua-M"
     },
     {
       "id": "T64",
-      "ane": null,
-      "razao": "sem candidato Qua-M"
+      "ane": "HS",
+      "razao": "disponível Qua-M"
     },
     {
       "id": "T65",
-      "ane": null,
-      "razao": "sem candidato Qua-M"
+      "ane": "IFL",
+      "razao": "disponível Qua-M"
     },
     {
       "id": "T66",
-      "ane": "LM",
+      "ane": "AF",
       "razao": "disponível Qua-T"
     },
     {
       "id": "T67",
-      "ane": null,
-      "razao": "sem candidato Qua-T"
+      "ane": "AP",
+      "razao": "disponível Qua-T"
     },
     {
       "id": "T68",
-      "ane": null,
-      "razao": "sem candidato Qua-T"
+      "ane": "CC",
+      "razao": "disponível Qua-T"
     },
     {
       "id": "T69",
-      "ane": null,
-      "razao": "sem candidato Qua-T"
+      "ane": "CG",
+      "razao": "afinidade 74% Qua-T"
     },
     {
       "id": "T70",
-      "ane": null,
-      "razao": "sem candidato Qua-T"
+      "ane": "CR",
+      "razao": "disponível Qua-T"
     },
     {
       "id": "T71",
-      "ane": null,
-      "razao": "sem candidato Qua-T"
+      "ane": "HS",
+      "razao": "disponível Qua-T"
     },
     {
       "id": "T72",
@@ -1562,63 +1562,63 @@
     },
     {
       "id": "T73",
-      "ane": null,
-      "razao": "sem candidato Qua-T"
+      "ane": "MM",
+      "razao": "disponível Qua-T"
     },
     {
       "id": "T74",
-      "ane": null,
-      "razao": "sem candidato Qua-T"
+      "ane": "LM",
+      "razao": "afinidade 54% Qua-T"
     },
     {
       "id": "T75",
-      "ane": null,
-      "razao": "sem candidato Qui-M"
+      "ane": "MM",
+      "razao": "afinidade 40% Qui-M+Qui-T"
     },
     {
       "id": "T76",
-      "ane": "DM",
+      "ane": "CG",
       "razao": "disponível Qui-M"
     },
     {
       "id": "T77",
-      "ane": null,
-      "razao": "sem candidato Qui-M"
+      "ane": "CR",
+      "razao": "disponível Qui-M+Qui-T"
     },
     {
       "id": "T78",
-      "ane": null,
-      "razao": "sem candidato Qui-M"
+      "ane": "DM",
+      "razao": "disponível Qui-M"
     },
     {
       "id": "T79",
-      "ane": null,
-      "razao": "sem candidato Qui-M"
+      "ane": "DS",
+      "razao": "disponível Qui-M"
     },
     {
       "id": "T80",
-      "ane": null,
-      "razao": "sem candidato Qui-M"
+      "ane": "HS",
+      "razao": "disponível Qui-M"
     },
     {
       "id": "T81",
-      "ane": null,
-      "razao": "sem candidato Qui-M"
+      "ane": "JB",
+      "razao": "disponível Qui-M"
     },
     {
       "id": "T82",
-      "ane": null,
-      "razao": "sem candidato Qui-M"
+      "ane": "MJ",
+      "razao": "disponível Qui-M"
     },
     {
       "id": "T83",
-      "ane": null,
-      "razao": "sem candidato Qui-M"
+      "ane": "ZCN",
+      "razao": "disponível Qui-M"
     },
     {
       "id": "T84",
-      "ane": null,
-      "razao": "sem candidato Qui-M"
+      "ane": "MR",
+      "razao": "disponível Qui-M+Qui-T"
     },
     {
       "id": "T85",
@@ -1627,48 +1627,48 @@
     },
     {
       "id": "T86",
-      "ane": null,
-      "razao": "sem candidato Qui-M"
+      "ane": "PP",
+      "razao": "disponível Qui-M"
     },
     {
       "id": "T87",
-      "ane": null,
-      "razao": "sem candidato Qui-T"
+      "ane": "MM",
+      "razao": "afinidade 40% Qui-M+Qui-T"
     },
     {
       "id": "T88",
-      "ane": null,
-      "razao": "sem candidato Qui-T"
+      "ane": "DS",
+      "razao": "disponível Qui-T"
     },
     {
       "id": "T89",
-      "ane": null,
-      "razao": "sem candidato Qui-T"
+      "ane": "HS",
+      "razao": "disponível Qui-T"
     },
     {
       "id": "T90",
-      "ane": null,
-      "razao": "sem candidato Qui-T"
+      "ane": "CR",
+      "razao": "disponível Qui-M+Qui-T"
     },
     {
       "id": "T91",
-      "ane": null,
-      "razao": "sem candidato Qui-T"
+      "ane": "JB",
+      "razao": "disponível Qui-T"
     },
     {
       "id": "T92",
-      "ane": null,
-      "razao": "sem candidato Qui-T"
+      "ane": "MJ",
+      "razao": "disponível Qui-T"
     },
     {
       "id": "T93",
-      "ane": null,
-      "razao": "sem candidato Qui-T"
+      "ane": "TC",
+      "razao": "afinidade 34% Qui-T"
     },
     {
       "id": "T94",
-      "ane": null,
-      "razao": "sem candidato Qui-T"
+      "ane": "ZCN",
+      "razao": "disponível Qui-T"
     },
     {
       "id": "T95",
@@ -1677,8 +1677,8 @@
     },
     {
       "id": "T96",
-      "ane": null,
-      "razao": "sem candidato Qui-T"
+      "ane": "SR",
+      "razao": "disponível Qui-T"
     },
     {
       "id": "T97",
@@ -1687,8 +1687,8 @@
     },
     {
       "id": "T98",
-      "ane": null,
-      "razao": "sem candidato Qui-T"
+      "ane": "MR",
+      "razao": "disponível Qui-M+Qui-T"
     },
     {
       "id": "T99",
@@ -1697,78 +1697,78 @@
     },
     {
       "id": "T100",
-      "ane": null,
-      "razao": "sem candidato Sex-M"
+      "ane": "MJ",
+      "razao": "afinidade 42% Sex-M"
     },
     {
       "id": "T101",
-      "ane": null,
-      "razao": "sem candidato Sex-M"
+      "ane": "AF",
+      "razao": "disponível Sex-M"
     },
     {
       "id": "T102",
-      "ane": null,
-      "razao": "sem candidato Sex-M"
+      "ane": "CA",
+      "razao": "disponível Sex-M"
     },
     {
       "id": "T103",
-      "ane": null,
-      "razao": "sem candidato Sex-M"
+      "ane": "LM",
+      "razao": "afinidade 100% Sex-M"
     },
     {
       "id": "T104",
-      "ane": "LM",
+      "ane": "ACS",
       "razao": "disponível Sex-M"
     },
     {
       "id": "T105",
-      "ane": null,
-      "razao": "sem candidato Sex-T"
+      "ane": "AF",
+      "razao": "disponível Sex-T"
     },
     {
       "id": "T106",
-      "ane": null,
-      "razao": "sem candidato Sex-T"
+      "ane": "CA",
+      "razao": "disponível Sex-T"
     },
     {
       "id": "T107",
-      "ane": null,
-      "razao": "sem candidato Sex-T"
+      "ane": "CC",
+      "razao": "disponível Sex-T"
     },
     {
       "id": "T108",
-      "ane": null,
-      "razao": "sem candidato Sex-T"
+      "ane": "HS",
+      "razao": "disponível Sex-T"
     },
     {
       "id": "T109",
-      "ane": null,
-      "razao": "sem candidato Sex-T"
+      "ane": "IFL",
+      "razao": "disponível Sex-T"
     },
     {
       "id": "T110",
-      "ane": null,
-      "razao": "sem candidato Sex-T"
+      "ane": "LM",
+      "razao": "disponível Sex-T"
     },
     {
       "id": "T111",
-      "ane": null,
-      "razao": "sem candidato Sex-T"
+      "ane": "MM",
+      "razao": "disponível Sex-T"
     },
     {
       "id": "T112",
-      "ane": null,
-      "razao": "sem candidato Sex-T"
+      "ane": "MJ",
+      "razao": "afinidade 64% Sex-T"
     },
     {
       "id": "T113",
-      "ane": null,
-      "razao": "sem candidato Sex-T"
+      "ane": "MR",
+      "razao": "disponível Sex-T"
     },
     {
       "id": "T114",
-      "ane": null,
-      "razao": "sem candidato Sex-T"
+      "ane": "TC",
+      "razao": "afinidade 17% Sex-T"
     },
     {
       "id": "T115",
@@ -1777,14 +1777,14 @@
     },
     {
       "id": "T116",
-      "ane": null,
-      "razao": "sem candidato Sex-T"
+      "ane": "LSS",
+      "razao": "disponível Sex-T"
     }
   ],
   "stats": {
     "total": 356,
-    "alocados": 124,
-    "sem_cobertura": 232
+    "alocados": 320,
+    "sem_cobertura": 36
   },
   "avisos": [
     "sem candidato Seg-T",
@@ -1795,17 +1795,17 @@
     "sem candidato Seg-T",
     "sem candidato Seg-T",
     "sem candidato Seg-T",
-    "sem candidato Seg-T",
     "sem candidato Ter-M",
     "sem candidato Ter-M",
     "sem candidato Ter-M",
     "sem candidato Ter-M",
     "sem candidato Ter-M",
-    "sem candidato Ter-M",
-    "sem candidato Ter-M",
-    "sem candidato Ter-M",
-    "sem candidato Ter-M",
-    "sem candidato Ter-M",
-    "sem candidato Ter-T"
+    "sem candidato Qua-T",
+    "sem candidato Qui-T",
+    "sem candidato Qui-T",
+    "sem candidato Qui-T",
+    "sem candidato Qui-T",
+    "sem candidato Qui-T",
+    "sem candidato Qui-T"
   ]
 }

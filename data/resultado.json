@@ -1,0 +1,1791 @@
+{
+  "semana": "2026-04-20",
+  "alocacoes": [
+    {
+      "id": "B0",
+      "ane": null,
+      "razao": "sem candidato Seg-M"
+    },
+    {
+      "id": "B1",
+      "ane": null,
+      "razao": "sem candidato Seg-T"
+    },
+    {
+      "id": "B2",
+      "ane": null,
+      "razao": "sem candidato Seg-T"
+    },
+    {
+      "id": "B3",
+      "ane": null,
+      "razao": "sem candidato Seg-M"
+    },
+    {
+      "id": "B4",
+      "ane": null,
+      "razao": "sem candidato Seg-M"
+    },
+    {
+      "id": "B5",
+      "ane": null,
+      "razao": "sem candidato Seg-M"
+    },
+    {
+      "id": "B6",
+      "ane": null,
+      "razao": "sem candidato Seg-T"
+    },
+    {
+      "id": "B7",
+      "ane": null,
+      "razao": "sem candidato Seg-T"
+    },
+    {
+      "id": "B8",
+      "ane": null,
+      "razao": "sem candidato Seg-T"
+    },
+    {
+      "id": "B9",
+      "ane": null,
+      "razao": "sem candidato Seg-T"
+    },
+    {
+      "id": "B10",
+      "ane": null,
+      "razao": "sem candidato Seg-M"
+    },
+    {
+      "id": "B11",
+      "ane": null,
+      "razao": "sem candidato Seg-T"
+    },
+    {
+      "id": "B12",
+      "ane": null,
+      "razao": "sem candidato Seg-M"
+    },
+    {
+      "id": "B13",
+      "ane": null,
+      "razao": "sem candidato Seg-M"
+    },
+    {
+      "id": "B14",
+      "ane": null,
+      "razao": "sem candidato Seg-T"
+    },
+    {
+      "id": "B15",
+      "ane": null,
+      "razao": "sem candidato Seg-T"
+    },
+    {
+      "id": "B16",
+      "ane": null,
+      "razao": "sem candidato Seg-M"
+    },
+    {
+      "id": "B17",
+      "ane": null,
+      "razao": "sem candidato Seg-M"
+    },
+    {
+      "id": "B18",
+      "ane": null,
+      "razao": "sem candidato Seg-T"
+    },
+    {
+      "id": "B19",
+      "ane": null,
+      "razao": "sem candidato Seg-T"
+    },
+    {
+      "id": "B20",
+      "ane": null,
+      "razao": "sem candidato Seg-T"
+    },
+    {
+      "id": "B21",
+      "ane": null,
+      "razao": "sem candidato Seg-T"
+    },
+    {
+      "id": "B22",
+      "ane": null,
+      "razao": "sem candidato Seg-M"
+    },
+    {
+      "id": "B23",
+      "ane": null,
+      "razao": "sem candidato Seg-M"
+    },
+    {
+      "id": "B24",
+      "ane": null,
+      "razao": "sem candidato Seg-M"
+    },
+    {
+      "id": "B25",
+      "ane": null,
+      "razao": "sem candidato Seg-M"
+    },
+    {
+      "id": "B26",
+      "ane": null,
+      "razao": "sem candidato Seg-M"
+    },
+    {
+      "id": "B27",
+      "ane": null,
+      "razao": "sem candidato Seg-M"
+    },
+    {
+      "id": "B28",
+      "ane": null,
+      "razao": "sem candidato Seg-T"
+    },
+    {
+      "id": "B29",
+      "ane": null,
+      "razao": "sem candidato Seg-T"
+    },
+    {
+      "id": "B30",
+      "ane": null,
+      "razao": "sem candidato Seg-T"
+    },
+    {
+      "id": "B31",
+      "ane": null,
+      "razao": "sem candidato Seg-T"
+    },
+    {
+      "id": "B32",
+      "ane": null,
+      "razao": "sem candidato Seg-M"
+    },
+    {
+      "id": "B33",
+      "ane": null,
+      "razao": "sem candidato Seg-T"
+    },
+    {
+      "id": "B34",
+      "ane": null,
+      "razao": "sem candidato Seg-T"
+    },
+    {
+      "id": "B35",
+      "ane": null,
+      "razao": "sem candidato Seg-T"
+    },
+    {
+      "id": "B36",
+      "ane": null,
+      "razao": "sem candidato Seg-M"
+    },
+    {
+      "id": "B37",
+      "ane": null,
+      "razao": "sem candidato Seg-T"
+    },
+    {
+      "id": "B38",
+      "ane": null,
+      "razao": "sem candidato Seg-T"
+    },
+    {
+      "id": "B39",
+      "ane": null,
+      "razao": "sem candidato Seg-T"
+    },
+    {
+      "id": "B40",
+      "ane": null,
+      "razao": "sem candidato Seg-T"
+    },
+    {
+      "id": "B41",
+      "ane": null,
+      "razao": "sem candidato Seg-T"
+    },
+    {
+      "id": "B42",
+      "ane": null,
+      "razao": "sem candidato Ter-M"
+    },
+    {
+      "id": "B43",
+      "ane": null,
+      "razao": "sem candidato Ter-T"
+    },
+    {
+      "id": "B44",
+      "ane": null,
+      "razao": "sem candidato Ter-M"
+    },
+    {
+      "id": "B45",
+      "ane": null,
+      "razao": "sem candidato Ter-T"
+    },
+    {
+      "id": "B46",
+      "ane": null,
+      "razao": "sem candidato Ter-T"
+    },
+    {
+      "id": "B47",
+      "ane": null,
+      "razao": "sem candidato Ter-M"
+    },
+    {
+      "id": "B48",
+      "ane": null,
+      "razao": "sem candidato Ter-M"
+    },
+    {
+      "id": "B49",
+      "ane": null,
+      "razao": "sem candidato Ter-M"
+    },
+    {
+      "id": "B50",
+      "ane": null,
+      "razao": "sem candidato Ter-M"
+    },
+    {
+      "id": "B51",
+      "ane": null,
+      "razao": "sem candidato Ter-M"
+    },
+    {
+      "id": "B52",
+      "ane": null,
+      "razao": "sem candidato Ter-M"
+    },
+    {
+      "id": "B53",
+      "ane": null,
+      "razao": "sem candidato Ter-M"
+    },
+    {
+      "id": "B54",
+      "ane": null,
+      "razao": "sem candidato Ter-M"
+    },
+    {
+      "id": "B55",
+      "ane": null,
+      "razao": "sem candidato Ter-M"
+    },
+    {
+      "id": "B56",
+      "ane": null,
+      "razao": "sem candidato Ter-M"
+    },
+    {
+      "id": "B57",
+      "ane": null,
+      "razao": "sem candidato Ter-M"
+    },
+    {
+      "id": "B58",
+      "ane": null,
+      "razao": "sem candidato Ter-M"
+    },
+    {
+      "id": "B59",
+      "ane": null,
+      "razao": "sem candidato Ter-M"
+    },
+    {
+      "id": "B60",
+      "ane": null,
+      "razao": "sem candidato Ter-T"
+    },
+    {
+      "id": "B61",
+      "ane": null,
+      "razao": "sem candidato Ter-T"
+    },
+    {
+      "id": "B62",
+      "ane": null,
+      "razao": "sem candidato Ter-T"
+    },
+    {
+      "id": "B63",
+      "ane": null,
+      "razao": "sem candidato Ter-T"
+    },
+    {
+      "id": "B64",
+      "ane": null,
+      "razao": "sem candidato Ter-M"
+    },
+    {
+      "id": "B65",
+      "ane": null,
+      "razao": "sem candidato Ter-M"
+    },
+    {
+      "id": "B66",
+      "ane": null,
+      "razao": "sem candidato Ter-T"
+    },
+    {
+      "id": "B67",
+      "ane": null,
+      "razao": "sem candidato Ter-M"
+    },
+    {
+      "id": "B68",
+      "ane": null,
+      "razao": "sem candidato Ter-M"
+    },
+    {
+      "id": "B69",
+      "ane": null,
+      "razao": "sem candidato Ter-M"
+    },
+    {
+      "id": "B70",
+      "ane": null,
+      "razao": "sem candidato Ter-M"
+    },
+    {
+      "id": "B71",
+      "ane": null,
+      "razao": "sem candidato Ter-T"
+    },
+    {
+      "id": "B72",
+      "ane": null,
+      "razao": "sem candidato Ter-M"
+    },
+    {
+      "id": "B73",
+      "ane": null,
+      "razao": "sem candidato Ter-M"
+    },
+    {
+      "id": "B74",
+      "ane": null,
+      "razao": "sem candidato Ter-M"
+    },
+    {
+      "id": "B75",
+      "ane": null,
+      "razao": "sem candidato Ter-T"
+    },
+    {
+      "id": "B76",
+      "ane": null,
+      "razao": "sem candidato Ter-M"
+    },
+    {
+      "id": "B77",
+      "ane": null,
+      "razao": "sem candidato Ter-M"
+    },
+    {
+      "id": "B78",
+      "ane": null,
+      "razao": "sem candidato Ter-M"
+    },
+    {
+      "id": "B79",
+      "ane": null,
+      "razao": "sem candidato Ter-M"
+    },
+    {
+      "id": "B80",
+      "ane": null,
+      "razao": "sem candidato Ter-M"
+    },
+    {
+      "id": "B81",
+      "ane": null,
+      "razao": "sem candidato Ter-M"
+    },
+    {
+      "id": "B82",
+      "ane": null,
+      "razao": "sem candidato Ter-M"
+    },
+    {
+      "id": "B83",
+      "ane": null,
+      "razao": "sem candidato Ter-M"
+    },
+    {
+      "id": "B84",
+      "ane": null,
+      "razao": "sem candidato Ter-M"
+    },
+    {
+      "id": "B85",
+      "ane": null,
+      "razao": "sem candidato Ter-M"
+    },
+    {
+      "id": "B86",
+      "ane": null,
+      "razao": "sem candidato Ter-M"
+    },
+    {
+      "id": "B87",
+      "ane": null,
+      "razao": "sem candidato Ter-M"
+    },
+    {
+      "id": "B88",
+      "ane": null,
+      "razao": "sem candidato Ter-M"
+    },
+    {
+      "id": "B89",
+      "ane": null,
+      "razao": "sem candidato Ter-M"
+    },
+    {
+      "id": "B90",
+      "ane": null,
+      "razao": "sem candidato Ter-M"
+    },
+    {
+      "id": "B91",
+      "ane": null,
+      "razao": "sem candidato Ter-T"
+    },
+    {
+      "id": "B92",
+      "ane": null,
+      "razao": "sem candidato Ter-T"
+    },
+    {
+      "id": "B93",
+      "ane": null,
+      "razao": "sem candidato Ter-T"
+    },
+    {
+      "id": "B94",
+      "ane": null,
+      "razao": "sem candidato Ter-T"
+    },
+    {
+      "id": "B95",
+      "ane": null,
+      "razao": "sem candidato Ter-T"
+    },
+    {
+      "id": "B96",
+      "ane": null,
+      "razao": "sem candidato Ter-T"
+    },
+    {
+      "id": "B97",
+      "ane": null,
+      "razao": "sem candidato Ter-M"
+    },
+    {
+      "id": "B98",
+      "ane": null,
+      "razao": "sem candidato Ter-M"
+    },
+    {
+      "id": "B99",
+      "ane": null,
+      "razao": "sem candidato Ter-M"
+    },
+    {
+      "id": "B100",
+      "ane": null,
+      "razao": "sem candidato Ter-M"
+    },
+    {
+      "id": "B101",
+      "ane": null,
+      "razao": "sem candidato Ter-M"
+    },
+    {
+      "id": "B102",
+      "ane": null,
+      "razao": "sem candidato Ter-M"
+    },
+    {
+      "id": "B103",
+      "ane": null,
+      "razao": "sem candidato Ter-T"
+    },
+    {
+      "id": "B104",
+      "ane": null,
+      "razao": "sem candidato Ter-T"
+    },
+    {
+      "id": "B105",
+      "ane": null,
+      "razao": "sem candidato Ter-M"
+    },
+    {
+      "id": "B106",
+      "ane": null,
+      "razao": "sem candidato Qua-M"
+    },
+    {
+      "id": "B107",
+      "ane": null,
+      "razao": "sem candidato Qua-M"
+    },
+    {
+      "id": "B108",
+      "ane": null,
+      "razao": "sem candidato Qua-T"
+    },
+    {
+      "id": "B109",
+      "ane": null,
+      "razao": "sem candidato Qua-T"
+    },
+    {
+      "id": "B110",
+      "ane": null,
+      "razao": "sem candidato Qua-M"
+    },
+    {
+      "id": "B111",
+      "ane": null,
+      "razao": "sem candidato Qua-M"
+    },
+    {
+      "id": "B112",
+      "ane": null,
+      "razao": "sem candidato Qua-T"
+    },
+    {
+      "id": "B113",
+      "ane": null,
+      "razao": "sem candidato Qua-M"
+    },
+    {
+      "id": "B114",
+      "ane": null,
+      "razao": "sem candidato Qua-M"
+    },
+    {
+      "id": "B115",
+      "ane": null,
+      "razao": "sem candidato Qua-M"
+    },
+    {
+      "id": "B116",
+      "ane": null,
+      "razao": "sem candidato Qua-T"
+    },
+    {
+      "id": "B117",
+      "ane": null,
+      "razao": "sem candidato Qua-T"
+    },
+    {
+      "id": "B118",
+      "ane": null,
+      "razao": "sem candidato Qua-T"
+    },
+    {
+      "id": "B119",
+      "ane": null,
+      "razao": "sem candidato Qua-M"
+    },
+    {
+      "id": "B120",
+      "ane": null,
+      "razao": "sem candidato Qua-M"
+    },
+    {
+      "id": "B121",
+      "ane": null,
+      "razao": "sem candidato Qua-M"
+    },
+    {
+      "id": "B122",
+      "ane": null,
+      "razao": "sem candidato Qua-M"
+    },
+    {
+      "id": "B123",
+      "ane": null,
+      "razao": "sem candidato Qua-M"
+    },
+    {
+      "id": "B124",
+      "ane": null,
+      "razao": "sem candidato Qua-M"
+    },
+    {
+      "id": "B125",
+      "ane": null,
+      "razao": "sem candidato Qua-M"
+    },
+    {
+      "id": "B126",
+      "ane": null,
+      "razao": "sem candidato Qua-M"
+    },
+    {
+      "id": "B127",
+      "ane": null,
+      "razao": "sem candidato Qua-M"
+    },
+    {
+      "id": "B128",
+      "ane": null,
+      "razao": "sem candidato Qua-M"
+    },
+    {
+      "id": "B129",
+      "ane": null,
+      "razao": "sem candidato Qua-T"
+    },
+    {
+      "id": "B130",
+      "ane": null,
+      "razao": "sem candidato Qua-T"
+    },
+    {
+      "id": "B131",
+      "ane": null,
+      "razao": "sem candidato Qua-M"
+    },
+    {
+      "id": "B132",
+      "ane": null,
+      "razao": "sem candidato Qua-M"
+    },
+    {
+      "id": "B133",
+      "ane": null,
+      "razao": "sem candidato Qua-M"
+    },
+    {
+      "id": "B134",
+      "ane": null,
+      "razao": "sem candidato Qua-T"
+    },
+    {
+      "id": "B135",
+      "ane": null,
+      "razao": "sem candidato Qua-M"
+    },
+    {
+      "id": "B136",
+      "ane": null,
+      "razao": "sem candidato Qua-M"
+    },
+    {
+      "id": "B137",
+      "ane": null,
+      "razao": "sem candidato Qua-M"
+    },
+    {
+      "id": "B138",
+      "ane": null,
+      "razao": "sem candidato Qua-M"
+    },
+    {
+      "id": "B139",
+      "ane": null,
+      "razao": "sem candidato Qua-T"
+    },
+    {
+      "id": "B140",
+      "ane": null,
+      "razao": "sem candidato Qua-M"
+    },
+    {
+      "id": "B141",
+      "ane": null,
+      "razao": "sem candidato Qua-M"
+    },
+    {
+      "id": "B142",
+      "ane": null,
+      "razao": "sem candidato Qua-T"
+    },
+    {
+      "id": "B143",
+      "ane": null,
+      "razao": "sem candidato Qua-T"
+    },
+    {
+      "id": "B144",
+      "ane": null,
+      "razao": "sem candidato Qua-T"
+    },
+    {
+      "id": "B145",
+      "ane": null,
+      "razao": "sem candidato Qua-T"
+    },
+    {
+      "id": "B146",
+      "ane": null,
+      "razao": "sem candidato Qua-M"
+    },
+    {
+      "id": "B147",
+      "ane": null,
+      "razao": "sem candidato Qua-M"
+    },
+    {
+      "id": "B148",
+      "ane": null,
+      "razao": "sem candidato Qua-M"
+    },
+    {
+      "id": "B149",
+      "ane": null,
+      "razao": "sem candidato Qua-T"
+    },
+    {
+      "id": "B150",
+      "ane": null,
+      "razao": "sem candidato Qua-T"
+    },
+    {
+      "id": "B151",
+      "ane": null,
+      "razao": "sem candidato Qua-T"
+    },
+    {
+      "id": "B152",
+      "ane": null,
+      "razao": "sem candidato Qua-M"
+    },
+    {
+      "id": "B153",
+      "ane": null,
+      "razao": "sem candidato Qua-T"
+    },
+    {
+      "id": "B154",
+      "ane": null,
+      "razao": "sem candidato Qua-T"
+    },
+    {
+      "id": "B155",
+      "ane": null,
+      "razao": "sem candidato Qui-M"
+    },
+    {
+      "id": "B156",
+      "ane": null,
+      "razao": "sem candidato Qui-T"
+    },
+    {
+      "id": "B157",
+      "ane": null,
+      "razao": "sem candidato Qui-M"
+    },
+    {
+      "id": "B158",
+      "ane": null,
+      "razao": "sem candidato Qui-M"
+    },
+    {
+      "id": "B159",
+      "ane": null,
+      "razao": "sem candidato Qui-M"
+    },
+    {
+      "id": "B160",
+      "ane": null,
+      "razao": "sem candidato Qui-T"
+    },
+    {
+      "id": "B161",
+      "ane": null,
+      "razao": "sem candidato Qui-T"
+    },
+    {
+      "id": "B162",
+      "ane": null,
+      "razao": "sem candidato Qui-M"
+    },
+    {
+      "id": "B163",
+      "ane": null,
+      "razao": "sem candidato Qui-M"
+    },
+    {
+      "id": "B164",
+      "ane": null,
+      "razao": "sem candidato Qui-T"
+    },
+    {
+      "id": "B165",
+      "ane": null,
+      "razao": "sem candidato Qui-T"
+    },
+    {
+      "id": "B166",
+      "ane": null,
+      "razao": "sem candidato Qui-T"
+    },
+    {
+      "id": "B167",
+      "ane": null,
+      "razao": "sem candidato Qui-T"
+    },
+    {
+      "id": "B168",
+      "ane": null,
+      "razao": "sem candidato Qui-T"
+    },
+    {
+      "id": "B169",
+      "ane": null,
+      "razao": "sem candidato Qui-T"
+    },
+    {
+      "id": "B170",
+      "ane": null,
+      "razao": "sem candidato Qui-M"
+    },
+    {
+      "id": "B171",
+      "ane": null,
+      "razao": "sem candidato Qui-M"
+    },
+    {
+      "id": "B172",
+      "ane": null,
+      "razao": "sem candidato Qui-T"
+    },
+    {
+      "id": "B173",
+      "ane": null,
+      "razao": "sem candidato Qui-T"
+    },
+    {
+      "id": "B174",
+      "ane": null,
+      "razao": "sem candidato Qui-M"
+    },
+    {
+      "id": "B175",
+      "ane": null,
+      "razao": "sem candidato Qui-M"
+    },
+    {
+      "id": "B176",
+      "ane": null,
+      "razao": "sem candidato Qui-M"
+    },
+    {
+      "id": "B177",
+      "ane": null,
+      "razao": "sem candidato Qui-T"
+    },
+    {
+      "id": "B178",
+      "ane": null,
+      "razao": "sem candidato Qui-T"
+    },
+    {
+      "id": "B179",
+      "ane": null,
+      "razao": "sem candidato Qui-T"
+    },
+    {
+      "id": "B180",
+      "ane": null,
+      "razao": "sem candidato Qui-M"
+    },
+    {
+      "id": "B181",
+      "ane": null,
+      "razao": "sem candidato Qui-M"
+    },
+    {
+      "id": "B182",
+      "ane": null,
+      "razao": "sem candidato Qui-M"
+    },
+    {
+      "id": "B183",
+      "ane": null,
+      "razao": "sem candidato Qui-T"
+    },
+    {
+      "id": "B184",
+      "ane": null,
+      "razao": "sem candidato Qui-T"
+    },
+    {
+      "id": "B185",
+      "ane": null,
+      "razao": "sem candidato Qui-T"
+    },
+    {
+      "id": "B186",
+      "ane": null,
+      "razao": "sem candidato Qui-M"
+    },
+    {
+      "id": "B187",
+      "ane": null,
+      "razao": "sem candidato Qui-M"
+    },
+    {
+      "id": "B188",
+      "ane": null,
+      "razao": "sem candidato Qui-T"
+    },
+    {
+      "id": "B189",
+      "ane": null,
+      "razao": "sem candidato Qui-T"
+    },
+    {
+      "id": "B190",
+      "ane": null,
+      "razao": "sem candidato Qui-M"
+    },
+    {
+      "id": "B191",
+      "ane": null,
+      "razao": "sem candidato Qui-M"
+    },
+    {
+      "id": "B192",
+      "ane": null,
+      "razao": "sem candidato Qui-M"
+    },
+    {
+      "id": "B193",
+      "ane": null,
+      "razao": "sem candidato Qui-T"
+    },
+    {
+      "id": "B194",
+      "ane": null,
+      "razao": "sem candidato Qui-T"
+    },
+    {
+      "id": "B195",
+      "ane": null,
+      "razao": "sem candidato Qui-T"
+    },
+    {
+      "id": "B196",
+      "ane": null,
+      "razao": "sem candidato Qui-T"
+    },
+    {
+      "id": "B197",
+      "ane": null,
+      "razao": "sem candidato Qui-M"
+    },
+    {
+      "id": "B198",
+      "ane": null,
+      "razao": "sem candidato Qui-M"
+    },
+    {
+      "id": "B199",
+      "ane": null,
+      "razao": "sem candidato Qui-T"
+    },
+    {
+      "id": "B200",
+      "ane": null,
+      "razao": "sem candidato Qui-M"
+    },
+    {
+      "id": "B201",
+      "ane": null,
+      "razao": "sem candidato Qui-M"
+    },
+    {
+      "id": "B202",
+      "ane": null,
+      "razao": "sem candidato Qui-M"
+    },
+    {
+      "id": "B203",
+      "ane": null,
+      "razao": "sem candidato Qui-M"
+    },
+    {
+      "id": "B204",
+      "ane": null,
+      "razao": "sem candidato Sex-M"
+    },
+    {
+      "id": "B205",
+      "ane": null,
+      "razao": "sem candidato Sex-M"
+    },
+    {
+      "id": "B206",
+      "ane": null,
+      "razao": "sem candidato Sex-M"
+    },
+    {
+      "id": "B207",
+      "ane": null,
+      "razao": "sem candidato Sex-T"
+    },
+    {
+      "id": "B208",
+      "ane": null,
+      "razao": "sem candidato Sex-T"
+    },
+    {
+      "id": "B209",
+      "ane": null,
+      "razao": "sem candidato Sex-T"
+    },
+    {
+      "id": "B210",
+      "ane": null,
+      "razao": "sem candidato Sex-T"
+    },
+    {
+      "id": "B211",
+      "ane": null,
+      "razao": "sem candidato Sex-M"
+    },
+    {
+      "id": "B212",
+      "ane": null,
+      "razao": "sem candidato Sex-M"
+    },
+    {
+      "id": "B213",
+      "ane": null,
+      "razao": "sem candidato Sex-T"
+    },
+    {
+      "id": "B214",
+      "ane": null,
+      "razao": "sem candidato Sex-T"
+    },
+    {
+      "id": "B215",
+      "ane": null,
+      "razao": "sem candidato Sex-T"
+    },
+    {
+      "id": "B216",
+      "ane": null,
+      "razao": "sem candidato Sex-T"
+    },
+    {
+      "id": "B217",
+      "ane": null,
+      "razao": "sem candidato Sex-T"
+    },
+    {
+      "id": "B218",
+      "ane": null,
+      "razao": "sem candidato Sex-M"
+    },
+    {
+      "id": "B219",
+      "ane": null,
+      "razao": "sem candidato Sex-M"
+    },
+    {
+      "id": "B220",
+      "ane": null,
+      "razao": "sem candidato Sex-T"
+    },
+    {
+      "id": "B221",
+      "ane": null,
+      "razao": "sem candidato Sex-M"
+    },
+    {
+      "id": "B222",
+      "ane": null,
+      "razao": "sem candidato Sex-T"
+    },
+    {
+      "id": "B223",
+      "ane": null,
+      "razao": "sem candidato Sex-T"
+    },
+    {
+      "id": "B224",
+      "ane": null,
+      "razao": "sem candidato Sex-T"
+    },
+    {
+      "id": "B225",
+      "ane": null,
+      "razao": "sem candidato Sex-T"
+    },
+    {
+      "id": "B226",
+      "ane": null,
+      "razao": "sem candidato Sex-M"
+    },
+    {
+      "id": "B227",
+      "ane": null,
+      "razao": "sem candidato Sex-M"
+    },
+    {
+      "id": "B228",
+      "ane": null,
+      "razao": "sem candidato Sex-T"
+    },
+    {
+      "id": "B229",
+      "ane": null,
+      "razao": "sem candidato Sex-T"
+    },
+    {
+      "id": "B230",
+      "ane": null,
+      "razao": "sem candidato Sex-M"
+    },
+    {
+      "id": "B231",
+      "ane": null,
+      "razao": "sem candidato Sex-M"
+    },
+    {
+      "id": "B232",
+      "ane": null,
+      "razao": "sem candidato Sex-M"
+    },
+    {
+      "id": "B233",
+      "ane": null,
+      "razao": "sem candidato Sex-M"
+    },
+    {
+      "id": "B234",
+      "ane": null,
+      "razao": "sem candidato Sex-T"
+    },
+    {
+      "id": "B235",
+      "ane": null,
+      "razao": "sem candidato Sex-T"
+    },
+    {
+      "id": "B236",
+      "ane": null,
+      "razao": "sem candidato Sex-M"
+    },
+    {
+      "id": "B237",
+      "ane": null,
+      "razao": "sem candidato Sex-T"
+    },
+    {
+      "id": "B238",
+      "ane": null,
+      "razao": "sem candidato Sex-T"
+    },
+    {
+      "id": "T0",
+      "ane": null,
+      "razao": "sem candidato Seg-M"
+    },
+    {
+      "id": "T1",
+      "ane": null,
+      "razao": "sem candidato Seg-M"
+    },
+    {
+      "id": "T2",
+      "ane": null,
+      "razao": "sem candidato Seg-M"
+    },
+    {
+      "id": "T3",
+      "ane": null,
+      "razao": "sem candidato Seg-M"
+    },
+    {
+      "id": "T4",
+      "ane": null,
+      "razao": "sem candidato Seg-M"
+    },
+    {
+      "id": "T5",
+      "ane": null,
+      "razao": "sem candidato Seg-M"
+    },
+    {
+      "id": "T6",
+      "ane": null,
+      "razao": "sem candidato Seg-M"
+    },
+    {
+      "id": "T7",
+      "ane": null,
+      "razao": "sem candidato Seg-M"
+    },
+    {
+      "id": "T8",
+      "ane": null,
+      "razao": "sem candidato Seg-M"
+    },
+    {
+      "id": "T9",
+      "ane": null,
+      "razao": "sem candidato Seg-M"
+    },
+    {
+      "id": "T10",
+      "ane": null,
+      "razao": "sem candidato Seg-M"
+    },
+    {
+      "id": "T11",
+      "ane": null,
+      "razao": "sem candidato Seg-M"
+    },
+    {
+      "id": "T12",
+      "ane": null,
+      "razao": "sem candidato Seg-T"
+    },
+    {
+      "id": "T13",
+      "ane": null,
+      "razao": "sem candidato Seg-T"
+    },
+    {
+      "id": "T14",
+      "ane": null,
+      "razao": "sem candidato Seg-T"
+    },
+    {
+      "id": "T15",
+      "ane": null,
+      "razao": "sem candidato Seg-T"
+    },
+    {
+      "id": "T16",
+      "ane": null,
+      "razao": "sem candidato Seg-T"
+    },
+    {
+      "id": "T17",
+      "ane": null,
+      "razao": "sem candidato Seg-T"
+    },
+    {
+      "id": "T18",
+      "ane": null,
+      "razao": "sem candidato Seg-T"
+    },
+    {
+      "id": "T19",
+      "ane": null,
+      "razao": "sem candidato Seg-T"
+    },
+    {
+      "id": "T20",
+      "ane": null,
+      "razao": "sem candidato Seg-T"
+    },
+    {
+      "id": "T21",
+      "ane": null,
+      "razao": "sem candidato Seg-T"
+    },
+    {
+      "id": "T22",
+      "ane": null,
+      "razao": "sem candidato Seg-T"
+    },
+    {
+      "id": "T23",
+      "ane": null,
+      "razao": "sem candidato Seg-T"
+    },
+    {
+      "id": "T24",
+      "ane": null,
+      "razao": "sem candidato Seg-T"
+    },
+    {
+      "id": "T25",
+      "ane": null,
+      "razao": "sem candidato Seg-T"
+    },
+    {
+      "id": "T26",
+      "ane": null,
+      "razao": "sem candidato Ter-M"
+    },
+    {
+      "id": "T27",
+      "ane": null,
+      "razao": "sem candidato Ter-M"
+    },
+    {
+      "id": "T28",
+      "ane": null,
+      "razao": "sem candidato Ter-M"
+    },
+    {
+      "id": "T29",
+      "ane": null,
+      "razao": "sem candidato Ter-M"
+    },
+    {
+      "id": "T30",
+      "ane": null,
+      "razao": "sem candidato Ter-M"
+    },
+    {
+      "id": "T31",
+      "ane": null,
+      "razao": "sem candidato Ter-M"
+    },
+    {
+      "id": "T32",
+      "ane": null,
+      "razao": "sem candidato Ter-M"
+    },
+    {
+      "id": "T33",
+      "ane": null,
+      "razao": "sem candidato Ter-M"
+    },
+    {
+      "id": "T34",
+      "ane": null,
+      "razao": "sem candidato Ter-M"
+    },
+    {
+      "id": "T35",
+      "ane": null,
+      "razao": "sem candidato Ter-M"
+    },
+    {
+      "id": "T36",
+      "ane": null,
+      "razao": "sem candidato Ter-M"
+    },
+    {
+      "id": "T37",
+      "ane": null,
+      "razao": "sem candidato Ter-M"
+    },
+    {
+      "id": "T38",
+      "ane": null,
+      "razao": "sem candidato Ter-M"
+    },
+    {
+      "id": "T39",
+      "ane": null,
+      "razao": "sem candidato Ter-M"
+    },
+    {
+      "id": "T40",
+      "ane": null,
+      "razao": "sem candidato Ter-M"
+    },
+    {
+      "id": "T41",
+      "ane": null,
+      "razao": "sem candidato Ter-T"
+    },
+    {
+      "id": "T42",
+      "ane": null,
+      "razao": "sem candidato Ter-T"
+    },
+    {
+      "id": "T43",
+      "ane": null,
+      "razao": "sem candidato Ter-T"
+    },
+    {
+      "id": "T44",
+      "ane": null,
+      "razao": "sem candidato Ter-T"
+    },
+    {
+      "id": "T45",
+      "ane": null,
+      "razao": "sem candidato Ter-T"
+    },
+    {
+      "id": "T46",
+      "ane": null,
+      "razao": "sem candidato Ter-T"
+    },
+    {
+      "id": "T47",
+      "ane": null,
+      "razao": "sem candidato Ter-T"
+    },
+    {
+      "id": "T48",
+      "ane": null,
+      "razao": "sem candidato Ter-T"
+    },
+    {
+      "id": "T49",
+      "ane": null,
+      "razao": "sem candidato Ter-T"
+    },
+    {
+      "id": "T50",
+      "ane": null,
+      "razao": "sem candidato Ter-T"
+    },
+    {
+      "id": "T51",
+      "ane": null,
+      "razao": "sem candidato Ter-T"
+    },
+    {
+      "id": "T52",
+      "ane": null,
+      "razao": "sem candidato Qua-M"
+    },
+    {
+      "id": "T53",
+      "ane": null,
+      "razao": "sem candidato Qua-M"
+    },
+    {
+      "id": "T54",
+      "ane": null,
+      "razao": "sem candidato Qua-M"
+    },
+    {
+      "id": "T55",
+      "ane": null,
+      "razao": "sem candidato Qua-M"
+    },
+    {
+      "id": "T56",
+      "ane": null,
+      "razao": "sem candidato Qua-M"
+    },
+    {
+      "id": "T57",
+      "ane": null,
+      "razao": "sem candidato Qua-M"
+    },
+    {
+      "id": "T58",
+      "ane": null,
+      "razao": "sem candidato Qua-M"
+    },
+    {
+      "id": "T59",
+      "ane": null,
+      "razao": "sem candidato Qua-M"
+    },
+    {
+      "id": "T60",
+      "ane": null,
+      "razao": "sem candidato Qua-M"
+    },
+    {
+      "id": "T61",
+      "ane": null,
+      "razao": "sem candidato Qua-M"
+    },
+    {
+      "id": "T62",
+      "ane": null,
+      "razao": "sem candidato Qua-M"
+    },
+    {
+      "id": "T63",
+      "ane": null,
+      "razao": "sem candidato Qua-M"
+    },
+    {
+      "id": "T64",
+      "ane": null,
+      "razao": "sem candidato Qua-M"
+    },
+    {
+      "id": "T65",
+      "ane": null,
+      "razao": "sem candidato Qua-M"
+    },
+    {
+      "id": "T66",
+      "ane": null,
+      "razao": "sem candidato Qua-T"
+    },
+    {
+      "id": "T67",
+      "ane": null,
+      "razao": "sem candidato Qua-T"
+    },
+    {
+      "id": "T68",
+      "ane": null,
+      "razao": "sem candidato Qua-T"
+    },
+    {
+      "id": "T69",
+      "ane": null,
+      "razao": "sem candidato Qua-T"
+    },
+    {
+      "id": "T70",
+      "ane": null,
+      "razao": "sem candidato Qua-T"
+    },
+    {
+      "id": "T71",
+      "ane": null,
+      "razao": "sem candidato Qua-T"
+    },
+    {
+      "id": "T72",
+      "ane": null,
+      "razao": "sem candidato Qua-T"
+    },
+    {
+      "id": "T73",
+      "ane": null,
+      "razao": "sem candidato Qua-T"
+    },
+    {
+      "id": "T74",
+      "ane": null,
+      "razao": "sem candidato Qua-T"
+    },
+    {
+      "id": "T75",
+      "ane": null,
+      "razao": "sem candidato Qui-M"
+    },
+    {
+      "id": "T76",
+      "ane": null,
+      "razao": "sem candidato Qui-M"
+    },
+    {
+      "id": "T77",
+      "ane": null,
+      "razao": "sem candidato Qui-M"
+    },
+    {
+      "id": "T78",
+      "ane": null,
+      "razao": "sem candidato Qui-M"
+    },
+    {
+      "id": "T79",
+      "ane": null,
+      "razao": "sem candidato Qui-M"
+    },
+    {
+      "id": "T80",
+      "ane": null,
+      "razao": "sem candidato Qui-M"
+    },
+    {
+      "id": "T81",
+      "ane": null,
+      "razao": "sem candidato Qui-M"
+    },
+    {
+      "id": "T82",
+      "ane": null,
+      "razao": "sem candidato Qui-M"
+    },
+    {
+      "id": "T83",
+      "ane": null,
+      "razao": "sem candidato Qui-M"
+    },
+    {
+      "id": "T84",
+      "ane": null,
+      "razao": "sem candidato Qui-M"
+    },
+    {
+      "id": "T85",
+      "ane": null,
+      "razao": "sem candidato Qui-M"
+    },
+    {
+      "id": "T86",
+      "ane": null,
+      "razao": "sem candidato Qui-M"
+    },
+    {
+      "id": "T87",
+      "ane": null,
+      "razao": "sem candidato Qui-T"
+    },
+    {
+      "id": "T88",
+      "ane": null,
+      "razao": "sem candidato Qui-T"
+    },
+    {
+      "id": "T89",
+      "ane": null,
+      "razao": "sem candidato Qui-T"
+    },
+    {
+      "id": "T90",
+      "ane": null,
+      "razao": "sem candidato Qui-T"
+    },
+    {
+      "id": "T91",
+      "ane": null,
+      "razao": "sem candidato Qui-T"
+    },
+    {
+      "id": "T92",
+      "ane": null,
+      "razao": "sem candidato Qui-T"
+    },
+    {
+      "id": "T93",
+      "ane": null,
+      "razao": "sem candidato Qui-T"
+    },
+    {
+      "id": "T94",
+      "ane": null,
+      "razao": "sem candidato Qui-T"
+    },
+    {
+      "id": "T95",
+      "ane": null,
+      "razao": "sem candidato Qui-T"
+    },
+    {
+      "id": "T96",
+      "ane": null,
+      "razao": "sem candidato Qui-T"
+    },
+    {
+      "id": "T97",
+      "ane": null,
+      "razao": "sem candidato Qui-T"
+    },
+    {
+      "id": "T98",
+      "ane": null,
+      "razao": "sem candidato Qui-T"
+    },
+    {
+      "id": "T99",
+      "ane": null,
+      "razao": "sem candidato Qui-T"
+    },
+    {
+      "id": "T100",
+      "ane": null,
+      "razao": "sem candidato Sex-M"
+    },
+    {
+      "id": "T101",
+      "ane": null,
+      "razao": "sem candidato Sex-M"
+    },
+    {
+      "id": "T102",
+      "ane": null,
+      "razao": "sem candidato Sex-M"
+    },
+    {
+      "id": "T103",
+      "ane": null,
+      "razao": "sem candidato Sex-M"
+    },
+    {
+      "id": "T104",
+      "ane": null,
+      "razao": "sem candidato Sex-M"
+    },
+    {
+      "id": "T105",
+      "ane": null,
+      "razao": "sem candidato Sex-T"
+    },
+    {
+      "id": "T106",
+      "ane": null,
+      "razao": "sem candidato Sex-T"
+    },
+    {
+      "id": "T107",
+      "ane": null,
+      "razao": "sem candidato Sex-T"
+    },
+    {
+      "id": "T108",
+      "ane": null,
+      "razao": "sem candidato Sex-T"
+    },
+    {
+      "id": "T109",
+      "ane": null,
+      "razao": "sem candidato Sex-T"
+    },
+    {
+      "id": "T110",
+      "ane": null,
+      "razao": "sem candidato Sex-T"
+    },
+    {
+      "id": "T111",
+      "ane": null,
+      "razao": "sem candidato Sex-T"
+    },
+    {
+      "id": "T112",
+      "ane": null,
+      "razao": "sem candidato Sex-T"
+    },
+    {
+      "id": "T113",
+      "ane": null,
+      "razao": "sem candidato Sex-T"
+    },
+    {
+      "id": "T114",
+      "ane": null,
+      "razao": "sem candidato Sex-T"
+    },
+    {
+      "id": "T115",
+      "ane": null,
+      "razao": "sem candidato Sex-T"
+    },
+    {
+      "id": "T116",
+      "ane": null,
+      "razao": "sem candidato Sex-T"
+    }
+  ],
+  "stats": {
+    "total": 356,
+    "alocados": 0,
+    "sem_cobertura": 356
+  },
+  "avisos": []
+}

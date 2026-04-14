@@ -338,11 +338,26 @@ def main():
         restricoes=restricoes,
     )
 
+    alocados = sum(1 for r in resultado if r.get("ane"))
+    sem = len(resultado) - alocados
+
+    output_obj = {
+        "alocacoes": resultado,
+        "stats": {
+            "total": len(resultado),
+            "alocados": alocados,
+            "sem_cobertura": sem,
+        },
+        "avisos": [
+            r["razao"] for r in resultado
+            if not r.get("ane") and r.get("razao")
+        ][:20],
+    }
+
     os.makedirs(os.path.dirname(args.output) or ".", exist_ok=True)
     with open(args.output, "w", encoding="utf-8") as f:
-        json.dump(resultado, f, ensure_ascii=False, indent=2)
+        json.dump(output_obj, f, ensure_ascii=False, indent=2)
 
-    alocados = sum(1 for r in resultado if r.get("ane"))
     print(f"Resultado: {alocados}/{len(resultado)} alocados → {args.output}")
 
 
